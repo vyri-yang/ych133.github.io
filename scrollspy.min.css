@@ -72,7 +72,7 @@ body{
     margin-left:60px;
 }
 
-.into_text{
+.intro_text{
     font-family: 'PT Sans Narrow', sans-serif;
     font-size: 20px;
     color:#8d8b8b;
@@ -119,7 +119,6 @@ body{
 
 .gray{
     background: #F7F9FC;
-    margin:0px;
     padding-top:30px;
     padding-bottom:30px;
 }
@@ -145,7 +144,7 @@ body{
 .section_1{
     margin-left:160px;
     margin-right:160px;
-    margin-bottom:30px;
+    margin-bottom:15px;
     //background-color: hsla(220,4%,58%,.6);
 }
 
@@ -242,14 +241,23 @@ body{
 
 .news_card{
     margin-top:30px;
-    padding-bottom:30px;
+    padding-bottom:20px;
     border-bottom:1px solid #cacbcc;
     
 }
 
 .sec_sub_title{
     font-family: 'PT Sans Narrow', sans-serif;
-    font-size: 24px;
+    font-size: 20px;
     color:#5f5d5d;
-    margin-bottom:20px;
+    margin-bottom:10px;
 }
+
+.sub-title_s{
+    text-align：left;
+    font-family: 'Oswald', sans-serif;
+    font-size: 24px;
+    margin-bottom:20px;
+    color:#3f44b6;
+}
+
